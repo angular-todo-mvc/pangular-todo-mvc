@@ -1,0 +1,25 @@
+{
+  "name": "@paypalpresentation/angular-todo-escape",
+  "version": "1.0.0",
+  "description": "Don't use this it's just a thing for a thing",
+  "main": "src/todo-escape.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-todo-mvc/pangular-todo-mvc.git"
+  },
+  "keywords": [
+    "dont",
+    "use",
+    "this",
+    "seriously"
+  ],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular-todo-mvc/pangular-todo-mvc/issues"
+  },
+  "homepage": "https://github.com/angular-todo-mvc/pangular-todo-mvc#readme"
+}
